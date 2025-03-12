@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207507445526",
+    "project_id": "teacher-me-5049e",
+    "storage_bucket": "teacher-me-5049e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207507445526:android:6949095e75169c915be237",
+        "android_client_info": {
+          "package_name": "com.capstone.group7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpCnCfFAm-wxUYJtz4jpFrRF69CjgMjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
